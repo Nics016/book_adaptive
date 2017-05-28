@@ -1,4 +1,4 @@
-<h1>There are some examples from the book <em><strong>Responsive web design 2nd edition</strong> - Ethan Marcooter</em></h1>
+<h1>There are some examples from the book <em><strong>"Responsive web design" 2nd edition</strong> - Ethan Marcooter</em></h1>
 
 <h2>Description of examples</h2>
 
@@ -6,4 +6,5 @@
 <p>Simple beginning example from chapter 2 which represents working with em parameter for setting text size instead of px.</p>
 
 <h3>ex_02</h3>
-<p></p>
+<p>The all other chapters are succintly represented here. To make responsive design we need to use media-quiries, and the key point is 768 width. </p>
+<p>Also it is helpful to use the [float: none; width: auto;]</p>

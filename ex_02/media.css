@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px){
+	.blog h1{
+		font-size: 1.5em; /* 24px / 16px */
+	}
+	.blog .main,
+	.blog .other{
+		float: none;
+		width: auto;
+	}
+	.blog .main .article{
+		padding: 40px 0;
+	}
+}
