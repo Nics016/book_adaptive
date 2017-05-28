@@ -6,5 +6,5 @@
 <p>Simple beginning example from chapter 2 which represents working with em parameter for setting text size instead of px.</p>
 
 <h3>ex_02</h3>
-<p>The all other chapters are succintly represented here. To make responsive design we need to use media-quiries, and the key point is 768 width. </p>
-<p>Also it is helpful to use the [float: none; width: auto;]</p>
+<p>The all other chapters are succintly represented here. To make responsive design we need to use media-quiries, and the key point is <strong>768 width.</strong> </p>
+<p>Also it is helpful to use the <strong>[float: none; width: auto;]</strong> to separate blocks and <strong>[max-width: 100%;]</strong> style for images.</p>
